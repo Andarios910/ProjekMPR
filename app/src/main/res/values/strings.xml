@@ -1,0 +1,149 @@
+<resources>
+    <string name="app_name">projekMPR</string>
+    <string name="sejarahTxt1">
+            Pendirian program studi (S-1) Teknologi Informasi diajukan pada awal tahun 2007
+        dengan tujuan untuk menambah satu program studi lagi yang berada di lingkungan disiplin
+        komputasi, di samping program studi Ilmu Komputer (S-1) yang telah didirikan sebelumnya
+        pada tahun 2002. Namun pada masa itu, dalam aturan nomenklatur Direktorat Jenderal
+        Pendidikan Tinggi (Dirjen Dikti) nama program studi Teknologi Informasi belum dikenal.
+        Program studi ini masih dikacaukan dengan nama program studi yang dikenal pada masa itu
+        dengan nama program studi Teknik Informatika (Informatics), yang sebenarnya adalah nama
+        lain dari program studi Ilmu Komputer (Computer Science). Setelah melalui diskusi dan
+        pembahasan dengan pihak Dirjen Dikti, akhirnya keluarlah surat keputusan pendirian program
+        studi dimaksud, tetapi dengan nama Program Studi Teknik Perangkat Lunak Strata-1 (S-1).
+        Dengan demikian, Program Studi Teknik Perangkat Lunak (S-1) secara resmi didirikan pada
+        tahun 2007 melalui SK DIKTI No 1629/D/T/2007 tanggal 6 Juli 2007. Pada masa awal
+        pembukaannya program studi ini dikelola di bawah Fakultas Matematika dan Ilmu Pengetahuan
+        Alam Universitas Sumatera Utara (FMIPA USU).
+    </string>
+    <string name="sejarahTxt2">
+        Pada tahun 2007 akhir keluarlah Surat Keputusan Dirjen Dikti No.163/KEP/DIKTI/2007 tertanggal
+        27 Nov 2007 tentang Penataan dan Kodifikasi Program Studi Perguruan Tinggi yang antara lain
+        mengatur penamaan program studi (S-1) bidang komputer sebagai berikut: Teknik Informatika S-1,
+        Sistem Komputer S-1, dan Sistem Informasi S-1. Dalam sistem penamaan ini terlihat bahwa
+        tidak ada tempat untuk program studi (S-1) Ilmu Komputer dan Teknik Perangkat Lunak. Oleh
+        karena itu, USU mengambil kebijakan untuk menyesuaikan penamaan kedua program studi ini
+        menjadi Program Studi (S-1) Sistem Informasi untuk Ilmu Komputer dan Program Studi (S-1)
+        Teknik Informatika untuk Teknik Perangkat Lunak.
+    </string>
+    <string name="sejarahTxt3">
+        Namun demikian, sistem penamaan yang diajukan oleh Dirjen Dikti tersebut mendapat tantangan
+        dari berbagai perguruan tinggi, khususnya yang memiliki program studi bidang komputer
+        disebabkan kontroversi yang timbul karena banyaknya program studi yang tidak terakomodasi
+        dalam sistem penamaan yang baru tersebut. Asosiasi Perguruan Tinggi Informatika dan Komputer
+        (APTIKOM) akhirnya ikut menyelesaikan persoalan ini dengan mengajukan sistem penamaan dan
+        penataan program studi bidang informatika dan komputer. Hasilnya adalah Surat Edaran Dirjen
+        Dikti No. 1030/D/T/2010 tentang Penataan Nomenklatur Program Studi Psikologi, Komunikasi,
+        Komputer dan Lanskap yang menetapkan bahwa program studi (S-1) bidang komputer.
+    </string>
+    <string name="sejarahTxt4">
+        Dengan keluarnya Surat Edaran Dirjen Dikti tersebut, perguruan tinggi penyelenggara bidang
+        komputer dan informatika diberi kesempatan untuk menata ulang penamaan program studi yang
+        dikelolanya. Universitas Sumatera Utara dengan demikian menetapkan kembali nama untuk kedua
+        program studinya menjadi Program Studi (S-1) Ilmu Komputer dan Program Studi (S-1) Teknologi
+        Informasi.
+    </string>
+    <string name="sejarahTxt5">
+        Seperti telah disebutkan pada bagian awal, kedua program studi Ilmu Komputer dan Teknologi
+        Informasi untuk sementara berada di bawah naungan Fakultas Matematika dan Ilmu Pengetahuan
+        Alam. Kedua program studi ini sejak awal memang diharapkan menjadi cikal bakal bagi
+        pembukaan satu fakultas tersendiri yang berkonsentrasi pada bidang ilmu komputer dan
+        teknologi informasi. Harapan ini menjadi kenyataan dengan dikeluarkannya Surat Keputusan
+        Rektor USU No. 2360/UN5.1.R/SK/PRS/2011 tanggal 6 September 2011 tentang pembentukan
+        Fakultas Ilmu Komputer dan Teknologi Informasi (disingkat: Fasilkom-TI)
+        Universitas Sumatera Utara.
+    </string>
+    <string name="gedungs1Ilkom">
+        Terdapat 3 lantai di dalam gedung Ilmu Komputer ini. Lantai pertama terdapat6 ruangan untuk
+        kelas kuliah umum, yang terdiri dari ruangan 101, 102, 103, 104, 105,dan 106. Lantai kedua
+        terdapat ruangan yang terdiri dari ruangan dosen dan ruang tata usaha. Lalu di lantai paling
+        atas, lantai ketiga terdapat 6 ruangan untuk kelas praktik.
+    </string>
+    <string name="gedungs1TI">
+        Terdapat 3 lantai di dalam gedung Ilmu Komputer ini. Lantai pertama terdapat 6 ruangan untuk
+        kelas kuliah umum, yang terdiri dari ruangan 101, 102, 103, 104, 105, dan 106. Lantai kedua
+        terdapat ruangan yang terdiri dari ruangan dosen dan ruang tata usaha. Lalu di lantai paling
+        atas, lantai ketiga terdapat 6 ruangan untuk kelas praktik.
+    </string>
+    <string name="gedungs2fasilkom">
+        Gedung S2, S3 FASILKOM-TI terdapat ruangan bagi mahasiswa yang mengambil program Master (S2)
+        dan program doktor (S3) dengan program kuliah Teknik Informatika dan Sains Data dan
+        Kecerdasan Buatan.
+    </string>
+    <string name="labPemograman">
+        Di dalam gedung FASILKOM-TI terdapat Laboratorium Pemrograman, laboratorium ini mengkhususkan
+        diri pada bidang dasar pemograman komputer sebagai sarana praktikum untuk menunjang mata
+        kuliah yang berhubungan dengan Programming dan Software Engineering. Adapun kegiatan
+        praktikum yang dilaksanakan pada matakuliah dasar pemograman komputer, antara lain:
+        Pengenalan Bahasa C++, Operator, Pengkondisian, Perulangan(Looping), Larik(Array),
+        Fungsi(Function), dan Pointer.
+    </string>
+    <string name="labJaringan">
+        Di dalam gedung FASILKOM-TI terdapat Laboratorium Jaringan, laboratorium ini dikhususkan
+        untuk kegiatan praktikum pada komunikasi data dan jaringan komputer. Untuk menunjang fungsi
+        dari laboratorium  dan kegiatan pembelajaran laboratorium tersebut dilengkapi dengan
+        perangkat – perangkat berikut : Komputer Dekstop, Server, Router, Managable Switch, Non
+        Managable Switch, Access Point, Crimping Tool, LCD Projector, White Board, LAN Tester dan
+        peralatan lainnya yang berhubungan dengan jaringan komputer. Adapun kegiatan praktikum yang
+        dilaksanakan, antara lain: pengkabelan, analisis jaringan, subnetting, instalasi Wired
+        Network, Wireless Network, dan routing.
+    </string>
+    <string name="labMultimedia">
+        Laboratorium ini memiliki fungsi utama yakni untuk kegiatan praktik dari teori yang telah
+        didapatkan dari perkuliahan teori. Alat pendukung juga disediakan untuk menunjang fungsi
+        dari laboratorium ini dan kegiatan pembelajaran yang ada didalamnya. Alat pendukung yang
+        disediakan seperti : Personal Computer, Router, Switch, Access Point, LCD Projector, White
+        Board. Selain alat, terdapat juga software yang telah terinstal dalam setiap komputer
+        seperti : Adobe Photoshop, Corel Draw, Camtasia Studio, Polycom PPX dan software-software
+        sejenis. Laboratorium ini juga digunakan untuk kegiatan akademik lainnya.
+    </string>
+    <string name="labDatabase">
+        Adapun yang menjadi fokus dalam Lab ini adalah kajian terkait berbagai aplikasi yang
+        berbasiskan pada web disertai dengan penerapan teknologi terbaru mesin basis data dimana
+        memungkinkan perusahaan untuk dapat mengakses informasi, menjalankan bisnis dan melakukan
+        hubungan dengan para pelanggan dan rekan bisnis setiap saat dan dimana saja melalui
+        Internet. Fokus Kegiatan meliputi integrasi Web atau aplikasi perangkat lunak dengan
+        teknologi msin basis data yang ada seperti Oracle, MySQL dan sebagainya adapun penggunaan
+        teknologi basis data yang tepat berkenaan dengan pengelolan basis data guna memenuhi
+        kebutuhan Organisasi. Diharapkan dengan adanya Laboratorium Database dapat meningkatkan
+        kemampuan dan keterampilan mahasiswa dalam memanfaatkan teknologi basis data untuk mendukung
+        pengembangan system informasi melalui kegiatan praktikum, studi grup maupun riset grup
+        dibawah bimbingan para tim dosen basis data. Selain meningkatkan kompetensi, mahasiswa
+        diharapkan dapat memanfaatkan teknologi basis data untuk mengikuti setiap ajang perlombaan
+        dibidang basis data dan pemrogramannya yang  diselenggarakan baik secara nasional maupun
+        internasional.
+    </string>
+
+    <string name="ruangSeminar">
+        Ruangan ini digunakan untuk kegiatan-kegiatan ilmiah seperti seminar, workshop, pelatihan 
+        dan kegiatan ilmiah lainnya.
+    </string>
+    <string name="ruangKelas">
+        Di setiap gedung terdapat ruang kelas demi melaksanakan kegiatan ajar mengajar disetiap 
+        matakuliah maupun setiap jenjang pendidikan, dan pada FASILKOM_TI ini terdapat wifi untuk
+        mendukung proses belajar mengajar.
+    </string>
+    <string name="ruangDiskusi">
+        Tempat ini biasanya digunakan mahasiswa untuk mengobrol maupun menunggu kelas berikutnya 
+        yang akan dilaksanakan.
+    </string>
+    <string name="Kantin">
+        Terdapat beberapa stand kantin demi memuaskan perut mahasiswa di jam makan siang atau pun 
+        sekedar menunggu kelas berikutnya.    
+    </string>
+    <string name="tempatParkir">
+        Tersedianya halaman parkir untuk kendaraan roda dua maupun empat untuk pekerja dan mahasiswa
+        FASILKOM-TI.
+    </string>
+
+
+    <string name="title_activity_gedung">gedungActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
